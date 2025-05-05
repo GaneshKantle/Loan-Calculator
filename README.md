@@ -4,6 +4,36 @@ A modern Loan Calculator built with **React**, **Material UI**, and **custom Rea
 
 ## 🧱 Project Structure
 
+└── ganeshkantle-loan-calculator/
+    ├── README.md
+    ├── package.json
+    ├── public/
+    │   ├── index.html
+    │   ├── manifest.json
+    │   └── robots.txt
+    └── src/
+        ├── App.css
+        ├── App.js
+        ├── App.test.js
+        ├── index.css
+        ├── index.js
+        ├── reportWebVitals.js
+        ├── setupTests.js
+        ├── theme.js
+        ├── components/
+        │   ├── AmortizationTable.js
+        │   ├── Calculator.js
+        │   ├── ExchangeRates.js
+        │   └── Header.js
+        ├── context/
+        │   └── AppContext.js
+        ├── hooks/
+        │   ├── useEMI.js
+        │   └── useExchangeRates.js
+        └── pages/
+            ├── ErrorPage.js
+            ├── Home.js
+            └── NotFound.js
 
 
 ## 🚀 Features
