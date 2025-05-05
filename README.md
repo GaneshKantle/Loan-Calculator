@@ -60,3 +60,15 @@ npm install react-router-dom
 npm install @mui/material @emotion/react @emotion/styled axios react-router-dom
 npm start
 ```
+
+
+## Contributing
+If you'd like to contribute, please fork the repository and submit a pull request. All contributions are welcome!
+
+
+## Contact
+For any queries, feel free to reach out:
+- **Email:** ganeshkantle@gmail.com
+- **GitHub:** (https://github.com/ganeshkantle)
+- **My Bento:** (https://bento.me/kantle)
+- **My Portfolio:** (https://tinyurl.com/ganeshkantle)
