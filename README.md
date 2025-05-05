@@ -3,7 +3,7 @@
 A modern Loan Calculator built with **React**, **Material UI**, and **custom React hooks**, allowing users to compute EMI, view amortization schedules, and monitor real-time exchange rates.
 
 ## 🧱 Project Structure
-`
+```
 └── ganeshkantle-loan-calculator/
     ├── README.md
     ├── package.json
@@ -34,7 +34,7 @@ A modern Loan Calculator built with **React**, **Material UI**, and **custom Rea
             ├── ErrorPage.js
             ├── Home.js
             └── NotFound.js
-`
+```
 
 ## 🚀 Features
 
